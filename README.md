@@ -6,14 +6,3 @@ Es una criptomoneda que se utilizará para mejorar la calidad de vida de las per
 
 # Especificaciones de NatisCoinE
 
-Nombre: NATISCOINE
-Algoritmo: QUARK
-Tipo: POS/MN
-Total de Monedas: Ilimitaodas
-Preminado: 2.000.000 NatisCoinE (0.14%)
-Tiempo del Bloque: 1 minutos
-Bloques por dia: 1440
-Masternode: 15000 NatisCoinE
-Recompensa por Bloque: 50 NatisCoinE (70%MN - 30%POS)
-Puertos: RPC port 8109
-             P2P port 8110
