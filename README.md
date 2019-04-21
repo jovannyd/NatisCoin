@@ -26,3 +26,13 @@ Masternode: 15000 NatisCoinE
 Recompensa por Bloque: 50 NatisCoinE (70%MN - 30%POS)
 
 Puertos: RPC port 8109  -   P2P port 8110
+
+# EXPLORADOR DE BLOQUES
+
+http://144.202.36.199:3002/
+
+# REDES SOCIALES
+
+Twitter: https://twitter.com/natiscoin
+Telegram: https://t.me/joinchat/H1Bs_1cn7S08injOqi8IWA
+Discord: https://discord.gg/w69MyNH
