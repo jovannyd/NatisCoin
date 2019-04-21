@@ -7,7 +7,6 @@ Es una criptomoneda que se utilizará para mejorar la calidad de vida de las per
 # Especificaciones de NatisCoinE
 
 Nombre: NATISCOINE
-
 Algoritmo: QUARK
 
 Tipo: POS/MN
