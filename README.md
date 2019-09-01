@@ -13,7 +13,7 @@ Algoritmo: X11
 
 Tipo: POW/MN
 
-Total de Monedas: Ilimitadas
+Total de Monedas: 207660000 NatisCoin
 
 Preminado: 300.000 NatisCoin
 
