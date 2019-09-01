@@ -1,31 +1,31 @@
 # NatisCoinE
 http://natiscoin.com/
 
-¿Que es NatisCoinE?
+¿Que es NatisCoin?
 
 Es una criptomoneda que se utilizará para mejorar la calidad de vida de las personas, implementando diferentes obras sociales en escuelas y comunidades con dificultades económicas y que requieren acciones que impacten a la sociedad y que permitan ofrecer un mejor bienestar.
 
 # Especificaciones de NatisCoinE
 
-Nombre: NATISCOINE
+Nombre: NATISCOIN
 
-Algoritmo: QUARK
+Algoritmo: X11
 
-Tipo: POS/MN
+Tipo: POW/MN
 
-Total de Monedas: Ilimitaodas
+Total de Monedas: Ilimitadas
 
-Preminado: 2.000.000 NatisCoinE (0.14%)
+Preminado: 300.000 NatisCoin
 
 Tiempo del Bloque: 1 minutos
 
 Bloques por dia: 1440
 
-Masternode: 15000 NatisCoinE
+Masternode: 2500 NatisCoin
 
-Recompensa por Bloque: 50 NatisCoinE (70%MN - 30%POS)
+Recompensa por Bloque: 20 NatisCoin (80%MN - 20%POS)
 
-Puertos: RPC port 8109  -   P2P port 8110
+Puertos: RPC port 7714  -   P2P port 7713
 
 # Block Explorer
 
