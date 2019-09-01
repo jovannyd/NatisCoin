@@ -1,4 +1,4 @@
-# NatisCoinE
+# NatisCoin
 http://natiscoin.com/
 
 ¿Que es NatisCoin?
