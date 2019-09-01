@@ -29,7 +29,7 @@ Puertos: RPC port 7714  -   P2P port 7713
 
 # Block Explorer
 
-http://144.202.36.199:3002/
+
 
 # Redes Sociales
 
