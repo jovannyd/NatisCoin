@@ -23,7 +23,7 @@ Bloques por dia: 1440
 
 Masternode: 2500 NatisCoin
 
-Recompensa por Bloque: 20 NatisCoin (80%MN - 20%POS)
+Recompensa por Bloque: 20 NatisCoin (80% MN - 20% POW)
 
 Puertos: RPC port 7714  -   P2P port 7713
 
