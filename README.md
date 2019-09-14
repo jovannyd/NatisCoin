@@ -34,6 +34,7 @@ http://45.77.149.194:3001/
 # Nodes
 
 addnode=66.42.111.252
+
 addnode=149.28.35.194
 
 # Redes Sociales
