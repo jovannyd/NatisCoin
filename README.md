@@ -29,13 +29,11 @@ Puertos: RPC port 7714  -   P2P port 7713
 
 # Block Explorer
 
-http://45.77.149.194:3001/
+http://45.32.81.168:3001/
 
 # Nodes
 
-addnode=66.42.111.252
-
-addnode=149.28.35.194
+addnode=207.246.68.159
 
 # Redes Sociales
 
