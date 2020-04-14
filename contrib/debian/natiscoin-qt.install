@@ -1,6 +1,0 @@
-usr/local/bin/natiscoin-qt usr/bin
-share/pixmaps/natiscoin32.xpm usr/share/pixmaps
-share/pixmaps/natiscoin16.xpm usr/share/pixmaps
-share/pixmaps/natiscoin128.png usr/share/pixmaps
-debian/natiscoin-qt.desktop usr/share/applications
-debian/natiscoin-qt.protocol usr/share/kde4/services/
