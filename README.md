@@ -8,11 +8,17 @@ Es una criptomoneda que se utilizará para mejorar la calidad de vida de las per
 # Especificaciones de NatisCoin
 
 Name: NatisCoin
+
 Algorithm: Scrypt
+
 Type: POS
+
 Preminated: 15.000.000 NatisCoin
+
 Block Time: 1 minutes
+
 Blocks per day: 1440
+
 Reward per Block: 50  NatisCoin 100% POS No Halving
                                 
 Ports: RPC port 17437
@@ -31,6 +37,9 @@ addnode=104.156.255.145
 # Redes Sociales
 
 Twitter: https://twitter.com/natiscoin
+
 Telegram: https://t.me/joinchat/H1Bs_1cn7S08injOqi8IWA
+
 Discord: https://discord.gg/w69MyNH
+
 Whatsapp: https://chat.whatsapp.com/FJHkTv3KK90Hv7KdJDGtUz
