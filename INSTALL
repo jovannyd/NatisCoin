@@ -1,0 +1,9 @@
+Building NatisCoin
+
+See doc/readme-qt.rst for instructions on building NatisCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NatisCoin.
+
+See doc/build-*.txt for instructions on building natiscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of NatisCoin.

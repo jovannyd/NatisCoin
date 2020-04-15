@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NatisCoin
+Comment=NatisCoin P2P Cryptocurrency
+Comment[fr]=NatisCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=NatisCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/natiscoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/natiscoin;
+Categories=Office;

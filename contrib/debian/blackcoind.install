@@ -1,0 +1,2 @@
+debian/bin/natiscoind usr/bin
+src/natiscoind usr/lib/natiscoin

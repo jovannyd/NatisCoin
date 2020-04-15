@@ -1,0 +1,11 @@
+[Protocol]
+exec=natiscoin-qt '%u'
+protocol=natiscoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
